@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=rKiLd40HIj
+
+https://www.pulumi.com/blog/deploying-a-django-application-to-aws/c
