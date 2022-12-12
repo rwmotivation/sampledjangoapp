@@ -1,0 +1,6 @@
+name: django_voting_app
+description: A minimal AWS Python Pulumi program
+runtime:
+    name: python
+    options:
+        virtualenv: venv
